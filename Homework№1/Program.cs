@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Teacher, have a nice day! ");
-            Console.Readline();
+            Console.ReadLine();
         }
     }
 }
